@@ -1,0 +1,22 @@
+{
+  "introduce": "Giới thiệu",
+  "guide": "Hướng dẫn",
+  "ordered": "Đặt mua",
+  "contact": "Liên hệ",
+  "title": "Chăm sóc khách hàng",
+  "subTitle1": "Hiệu quả, đơn giản, không cần cài đặt",
+  "subTitle2": "Thực hiện mọi lúc, mọi nơi",
+  "login": "Đăng nhập",
+  "labelUsername": "Tên đăng nhập",
+  "tooltipUsername": "Tên đăng nhập là tài khoản do Bkav tạo và cấp cho doanh nghiệp/tổ chức hoặc do Admin quản trị doanh nghiệp/tổ chức tạo ra cấp cho người sử dụng hệ thống.",
+  "textRequireUsername": "Bạn chưa nhập Tên đăng nhập",
+  "labelPassword": "Mật khẩu",
+  "textRequirePassword": "Bạn chưa nhập Mật khẩu",
+  "forgotPassword": "Quên mật khẩu?",
+  "notAccount": "Bạn chưa có tài khoản?",
+  "order": "Đặt mua",
+  "msgLoginSuccess": "Đăng nhập thành công !",
+  "passwordRecovery": "Khôi phục mật khẩu",
+  "noteForgotPassword": "Bạn vui lòng điền đầy đủ Tên đăng nhập và Số điện thoại đã đăng ký để khôi phục mật khẩu",
+  "numberPhone": "Số điện thoại"
+}

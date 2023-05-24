@@ -1,0 +1,11 @@
+{
+  "placeholderSearch": "Tìm kiếm theo Mã phòng ban, Tên phòng ban",
+  "listDepartment": "Danh sách phòng ban: ",
+  "tooltipExport": "Xuất file Excel Danh sách Phòng ban",
+  "addDepartmentOnline": "Thêm mới phòng ban trực tuyến",
+  "addDepartmentByExcelFile": "Thêm mới phòng ban bằng file excel",
+  "departmentManagement": "Quản lý phòng ban",
+  "positionManagement": "Quản lý chức vụ",
+  "userManagement": "Quản lý người dùng",
+  "rollManagement": "Quản lý nhóm quyền"
+}
